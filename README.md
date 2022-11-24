@@ -16,7 +16,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### The challenge
 
-![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the E-commerce product page coding challenge](./ecommerce-product-page/public/design/desktop-preview.jpg)
 
 Users should be able to:
 
