@@ -1,10 +1,18 @@
 <script setup>
 import ProductLightBox from './components/ProductLightBox.vue';
+
+export default {
+  data() {
+    return {
+      viewing: false
+    }
+  }
+}
 </script>
 
 <template>
   <body>
-    <ProductLightBox></ProductLightBox>
+    <ProductLightBox v-if="viewing"></ProductLightBox>
     <main>
       Collections
         Men
