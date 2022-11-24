@@ -1,4 +1,4 @@
-<script setup>
+<script>
 import ProductLightBox from './components/ProductLightBox.vue';
 
 export default {
