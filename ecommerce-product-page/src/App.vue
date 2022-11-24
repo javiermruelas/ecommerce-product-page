@@ -6,13 +6,16 @@ export default {
     return {
       viewing: false
     }
+  },
+  components: {
+    'product-light-box': ProductLightBox
   }
 }
 </script>
 
 <template>
   <body>
-    <ProductLightBox v-if="viewing"></ProductLightBox>
+    <product-light-box v-if="viewing"></product-light-box>
     <main>
       Collections
         Men
