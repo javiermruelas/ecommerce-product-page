@@ -7,7 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  <!-- - [Screenshot](#screenshot) -->
+  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
   - [Author](#author)
@@ -27,7 +27,7 @@ Users should be able to:
 - Add items to the cart
 - View the cart and remove items from it
 
-<!-- ### Screenshot
+### Screenshot
 
 ![](./screenshot.jpg)
 
@@ -37,7 +37,7 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.** -->
+**Note: I left this section in its default state. I will update this with a screenshot when I've finished the challenge.**
 
 ### Built with
 
@@ -50,8 +50,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Josh Comeau](https://www.joshwcomeau.com/css/custom-css-reset/) - This is a short and sweet CSS reset that helps to kickstart development. Thanks Josh!
 
 ## Author
 
