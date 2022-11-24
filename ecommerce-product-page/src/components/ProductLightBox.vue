@@ -1,4 +1,15 @@
-<script setup>
+<script>
+    export default {
+        name: 'product-light-box',
+        data() {
+            return {
+
+            }
+        },
+        mounted() {
+            
+        }
+    }
 </script>
 
 <template>
